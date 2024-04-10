@@ -2,6 +2,8 @@
 
 展示如何使用xmake工具链，在Windows上面一键编译flex生成的词法分析器。
 
+See also <https://github.com/yyhhenry/lexer-rs>.
+
 ## Usage
 
 ```bash
